@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   card: {
     backgroundColor: FarmColors.surface,
     borderRadius: 16,
-    padding: 16,
+    padding: 18,
     marginBottom: 12,
     borderWidth: 1,
     borderColor: FarmColors.border,
